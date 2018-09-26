@@ -15,7 +15,6 @@ My attempt at the [House Prices: Advanced Regression Techniques challenge](https
 - [scipy stack](https://www.scipy.org/stackspec.html) (pandas, scipy, scikit-learn, etc.)
 - pyspark (v2.3.0)
 - docker (optional, recommended)
-- docker-compose (optional, recommended)
 
 ## Getting started
 
