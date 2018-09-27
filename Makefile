@@ -3,6 +3,7 @@
 #
 
 download:
+	mkdir -p notebooks/data/
 	echo "Downloading data from kaggle..."
 	kaggle competitions download -c house-prices-advanced-regression-techniques -p $(PWD)/notebooks/data/
 
