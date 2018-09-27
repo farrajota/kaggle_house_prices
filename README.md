@@ -77,6 +77,8 @@ Then, to start the container you can:
 
 To run the cells in the notebooks, you must first download the data for the house prices challenge. You can get it from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) directly and you should put the `train.csv` and `test.csv` files inside the `notebooks/data/` directory.
 
+You can also install and setup the the [kaggle api](https://github.com/Kaggle/kaggle-api) in your system and then run `make download` in the terminal to automatically download the data to the correct folder.
+
 > Note: The data needed to run the notebooks is not provided by this repo.
 
 ## License
